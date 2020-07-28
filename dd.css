@@ -1,6 +1,6 @@
-/* Testing Once More */
+/* Testing Twice More */
 
-/* Extra Variables */
+* Extra Variables */
 .theme-dark {
     --background-secondary: transparent;
     --background-primary: transparent;
@@ -510,7 +510,7 @@
     background: transparent;
 }
 .theme-dark .da-panels .da-container, .theme-dark .da-activityPanel{
-    background-color: #272727;
+    background-color: #000000;
 }
 .theme-dark .da-content > .da-sidebar, .theme-dark .da-privateChannels {
     background: #000000;
