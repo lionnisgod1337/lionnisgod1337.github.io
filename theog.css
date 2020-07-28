@@ -156,7 +156,7 @@
 }
 .theme-dark .wrapperHover-1GktnT:hover {
     background-color: #eee6e6;
-    color: #0e0b0e;
+    color: #000000;
 }
 .theme-light .wrapper-3WhCwL {
     background-color: hsla(227, 2%, 9%, 0.2);
@@ -1410,7 +1410,7 @@
     background: #272424;
 }
 .theme-dark .popoutList-T9CKZQ {
-    background: #0e0e0e;
+    background: #000000;
 }
 .theme-dark .selectableItem-1MP3MQ[style*="background: rgb(114, 137, 218);"] {
     background-color: #7b7d81 !important;
@@ -1418,26 +1418,26 @@
 /* Server Modal */
 .theme-dark .footer-1kmXd4,
 #app-mount .footer-2yfCgX {
-    background: #161515;
+    background: #000000;
 }
 #app-mount .footer-2yfCgX {
     box-shadow: none;
 }
 #app-mount .regionSelect-3lf4eE:hover button {
-    background-color: rgba(86, 83, 83, 0.3);
-    color: #bbb6b6;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: #000000;
 }
 .regionSelect-3lf4eE button{
-    color: #898787;
+    color: #000000;
 }
 .regionSelect-3lf4eE:hover button {
     transition: background 200ms ease, color 300ms ease-in-out;
 }
 .regionSelectModal-12e-57 {
-    background-color: #1c1c1c;
+    background-color: #000000;
 }
 .regionSelectModal-12e-57 .regionSelectModalHeader-21khC1 {
-    color: #7d7979;
+    color: #0000009;
 }
 .regionSelectModal-12e-57 .regionSelectModalOption-2DSIZ3{
     background-color: hsla(0, 2%, 17%, 0.3);
